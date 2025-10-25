@@ -8,3 +8,4 @@ python-dotenv==1.0.1
 sse_starlette==2.1.2
 langchain-google-genai
 google-generativeai
+langchain_chroma
